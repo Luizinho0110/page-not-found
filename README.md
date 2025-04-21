@@ -1,6 +1,3 @@
-# page-not-found
-Um site simples de uma página que não foi encontrada ou não existe.
-
 # 404 - Página de Erro Não Encontrada
 
 Este projeto é uma página de erro 404 simples e personalizável que informa os usuários quando a página solicitada não pode ser encontrada no site.
